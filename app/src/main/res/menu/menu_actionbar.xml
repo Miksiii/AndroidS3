@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/id_fit"
+        android:title="FIT"
+        app:showAsAction="never">
+    </item>
+
+    <item android:id="@+id/id_fm"
+        android:title="FM"
+        app:showAsAction="never">
+    </item>
+
+    <item android:id="@+id/id_fdu"
+        android:title="FDU"
+        app:showAsAction="never">
+    </item>
+
+</menu>
